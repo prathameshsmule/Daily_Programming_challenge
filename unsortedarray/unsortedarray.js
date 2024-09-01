@@ -17,4 +17,4 @@ function findKthLargest(arr, k) {
 
 const arr = [3, 2, 1, 5, 6, 4];
 const k = 2;
-console.log(findKthLargest(arr, k));  // Output: 5
+console.log(findKthLargest(arr, k));  
